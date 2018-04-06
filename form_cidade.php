@@ -1,14 +1,14 @@
 <article>
 	<form action="cadastra_estado.php" method="post">
 		<fieldset>
-			<legend>Cadastro de Estado</legend>
+			<legend>Cadastro de Cidade</legend>
 			<p>
-				<label>Nome do Estado:</label>
+				<label>Estado:</label>
 				<input type="text" name="nome" size="30"/>
 			</p>
 			<p>
-				<label>Sigla</label>
-				<input type="text" name="sigla"	size="30"/>
+				<label>Cidade</label>
+				<input type="text" name="cidade"	size="30"/>
 			</p>
 			<input type="submit" value="Enviar"/>
 		</fieldset>
