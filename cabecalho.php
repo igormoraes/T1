@@ -1,6 +1,3 @@
-<a href="a.php"> A |</a>
-<a href="a.php"> B |</a>
-<a href="a.php"> C |</a>
-<a href="a.php"> D |</a>
-<a href="a.php"> E |</a>
-<a href="a.php"> F |</a>
+<a href="index.php"> Pagina Inicial |</a>
+<a href="cadastra_estado.php"> Cadastrar Estado |</a>
+<a href="cadastra_cidade.php"> Cadatrar Cidade |</a>

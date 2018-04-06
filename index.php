@@ -7,6 +7,8 @@
 	<body>
 		<?php 
 			include "cabecalho.php";
+			include "tabelas.php";
+			
 		?>
 	</body>
 </html>
